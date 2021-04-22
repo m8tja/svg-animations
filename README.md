@@ -13,3 +13,5 @@ complementary colours,
 colours differ in hue and brightness,
 colours differ in hue and saturation,
 colours differ in saturation and brightness.
+
+Inspired by Piet Mondrian, Kazimir Malevič, Vasilij Kandinski, Henri Matisse, Andy Warhol, op-art.
