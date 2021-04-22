@@ -1,4 +1,4 @@
-# svg_animations
+# Svg animations
 Short svg animations for my Introduction to Graphics Design course.
 
 
