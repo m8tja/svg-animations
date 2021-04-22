@@ -11,5 +11,5 @@ analogue colours,
 triade of colours,
 complementary colours,
 colours differ in hue and brightness,
-colours differ in brightness and saturation,
-colours differ in saturation and temperature.
+colours differ in hue and saturation,
+colours differ in saturation and brightness.
